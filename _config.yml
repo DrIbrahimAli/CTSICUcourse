@@ -150,8 +150,8 @@ footer:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  # url:
-    - label: "Whatsapp"
-       url: https://wa.me/201212216334
+    # - label: "Whatsapp"
+    #    url: https://wa.me/201212216334
 
 
 # Reading Files
