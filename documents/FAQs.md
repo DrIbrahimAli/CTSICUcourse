@@ -1,3 +1,8 @@
+---
+layout: single
+---
+
+
 # CTSICU COURSE FAQs
 
 ### What is this course?
