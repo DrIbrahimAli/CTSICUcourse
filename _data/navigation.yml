@@ -5,9 +5,8 @@ main:
    - title: "Apply"
      url: https://forms.gle/RLCVpUnvb6GXag8J9
    #- title: "whatsapp"
-   - title:
+   - title: <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" height="20" />
      url: https://wa.me/201212216334
-     icon: fa-brands fa-square-whatsapp
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
