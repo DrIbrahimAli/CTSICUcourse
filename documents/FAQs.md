@@ -32,7 +32,7 @@ The course is designed for house officers and fresh medical graduates.
 
 ### How can I apply?
 We accept applications throughout June and December.  Applications outside these timeframes will be neglected.
-Fill the following (application form)[https://forms.gle/RLCVpUnvb6GXag8J9]. We will contact you to arrange for an interview
+Fill the following [application form](https://forms.gle/RLCVpUnvb6GXag8J9). We will contact you to arrange for an interview
 
 ### Will I be tested on the interview?
 You will not be tested for medical knowledge on the interview
