@@ -34,10 +34,10 @@ The course is for free.
 
 ### What does the course consist of? What is the work load?
 The weekly workload is:
-- a 24-hr shift on the ICU
-- weekly studying on google classroom
+- a 24-hr shift on the ICU. If you failed to attend at least 85% of them, your course will be canceled.
+
+- weekly studying on google classroom.
 - the workload is expected to be 3-hour daily study 
-If you failed to attend at least 85% of them, your course will be canceled.
 
 ### How will I be evaluted?
 You will be evaluated through monthly quizs and a final exam. You have to score at least 70% in these to pass.
