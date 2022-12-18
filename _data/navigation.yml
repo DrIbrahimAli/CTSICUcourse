@@ -4,6 +4,8 @@ main:
      url: /documents/FAQs
    - title: "Apply"
      url: https://forms.gle/RLCVpUnvb6GXag8J9
+   - title: "We're hiring"
+     url: https://forms.gle/kBmB94m2sNt1CQJU6
    - title: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Location_icon_from_Noun_Project.png/240px-Location_icon_from_Noun_Project.png" width="20" height="20" />
      url: https://goo.gl/maps/c5SxhpVdw9rymrvcA
    - title: <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Email_%286734%29_-_The_Noun_Project.svg" width="20" height="20"/>
