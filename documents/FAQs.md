@@ -8,8 +8,8 @@ layout: single
 ### What is this course?
 This is a training course in fundamental medical and surgical intensive care skills with heavy orientation towards cardiothoracic surgical patients.
 
-### Who is this course designed for? Am I elegable for the course?
-The course is designed for house officers and fresh medical graduates. To be elegable you must have finished your medical school.
+### Who is this course designed for? Am I eligible for the course?
+The course is designed for house officers and fresh medical graduates. To be eligible you must have finished your medical school.
 
 ### I am an anaesthesiology/ICU/ER resident. will I benifit from the course?
 Yes.  You can think of the course as crash course in ICU.  A 36-months residency compressed in 5 months.
